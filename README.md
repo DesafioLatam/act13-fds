@@ -89,8 +89,6 @@
 * Grafique la densidad de cada uno con `kdplot`.
 * Modele y comente brevemente sobre cuáles son los principales determinantes de cada factor en base al siguiente modelo estimable:
 
-$$
-\tilde{y} = \beta_{0} + \beta_{1}\cdot\texttt{gender} + \beta_{2}\cdot\texttt{education} + \beta_{1}\cdot\texttt{age} + \varepsilon_{i}
-$$
+![logo](eq1.gif)
 
 
